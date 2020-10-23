@@ -1,8 +1,10 @@
-# Lucas Siqueira
+# Hi, I'm Lucas Siqueira! :D
 
-Developer Web.
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/lsiqueiradev)](https://github.com/lsiqueiradev)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lsiqueiradev/)](https://www.linkedin.com/in/lsiqueiradev/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/lsiqueiradev)](https://twitter.com/lsiqueiradev)
 
-[![Twitter Badge](https://img.shields.io/badge/-@siqueira228-6633cc?style=flat-square&labelColor=6633cc&logo=twitter&logoColor=white&link=https://twitter.com/dieegosf)](https://twitter.com/siqueira228) 
-[![Gmail Badge](https://img.shields.io/badge/-siqueira228@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:siqueira228@gmail.com)](mailto:siqueira228@gmail.com)
+### About me
+I'm a {backend, frontend and mobile} developer.
 
-Enthusiast of the best web & mobile development technologies.
+- [Website](https://lsiqueira.dev/) 💻 - Working on it.
