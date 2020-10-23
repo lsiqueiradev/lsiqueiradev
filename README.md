@@ -5,6 +5,6 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/lsiqueiradev)](https://twitter.com/lsiqueiradev)
 
 ### About me
-I'm a {backend, frontend and mobile} developer.
+A developer that is an enthusiast of new technologies and a JavaScript fan.
 
-- [Website](https://lsiqueira.dev/) 💻 - Working on it.
+- [Website](https://www.lsiqueira.dev/) 💻 - Working on it.
