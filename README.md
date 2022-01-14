@@ -5,6 +5,4 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/lsiqueiradev)](https://twitter.com/lsiqueiradev)
 
 ### About me
-A developer that is an enthusiast of new technologies and a JavaScript fan.
-
-- [Website](https://www.lsiqueira.dev/) 💻 - Working on it.
+A developer that is an enthusiast of new technologies and a JavaScript and PHP fan.
