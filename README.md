@@ -7,5 +7,4 @@
 ### About me
 A developer that is an enthusiast of new technologies and a JavaScript and PHP fan.
 
-
 [![Rocketseat Badge](https://app.rocketseat.com.br/api/rocketid/share?slug=lsiqueiradev&type=card)](https://app.rocketseat.com.br/me/lsiqueiradev)
